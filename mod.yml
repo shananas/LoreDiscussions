@@ -53,5 +53,3 @@ assets:
   method: copy
   source:
   - name: obj/PO06_N_PO030.mdlx
-
-
