@@ -194,3 +194,8 @@ assets:
   method: copy
   source:
   - name: remastered/PMember/-21.dds #Genie
+- name: remastered/obj/P_EX330.a.us/-11.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/limit/-11.dds
